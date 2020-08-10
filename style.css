@@ -1,0 +1,109 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+#name h1 {
+position: absolute;
+margin-left: 80px;
+top: 4px;
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 40px;
+line-height: px;
+text-align: center;
+color: #000000;
+}
+#name p{
+  position: absolute;
+  width: 500px;
+  height: 500px;
+ 
+  top: 66px;
+  font-family: Roboto;
+  font-style: normal;
+  
+  font-size: 30px;
+  line-height: 40px;
+  text-align: center;
+  color: #000000;
+}
+#insta img{
+  position: absolute;
+width: 60px;
+height: 70px;
+margin-left: 30px;
+top: 290px;
+}
+#insta img:hover{
+  width: 90px;
+  height: 90px;
+}
+#git img{
+  position: absolute;
+  width: 60px;
+  height: 60px;
+  margin-left: 140px;
+  top: 300px;
+}
+#git img:hover{
+  width: 90px;
+  height: 90px;
+}
+#link img{
+  position: absolute;
+  width: 70px;
+  height: 80px;
+  margin-left: 250px;
+  top: 290px;
+}
+#link img:hover{
+  width: 90px;
+  height: 90px;
+}
+#twitter img{
+  position: absolute;
+  width: 70px;
+  height: 80px;
+  margin-left: 370px;
+  top: 290px;
+}
+#twitter img:hover{
+width: 90px;
+height: 90px;
+
+}
+#personal {
+  position: absolute;
+width: 450px;
+height: 400px;
+margin-left: 500px;
+top: 0px;
+
+}
+.about h1{
+  position: absolute;
+margin-left: 1050px;
+top: 4px;
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 40px;
+line-height: px;
+text-align: center;
+color: #000000;
+}
+.about p{
+  position: absolute;
+  width: 390px;
+  height: 500px;
+ margin-left: 960px;
+  top: 60px;
+  font-family: Roboto;
+  font-style: normal;
+  
+  font-size: 26px;
+  line-height: 40px;
+  text-align: center;
+  color: #000000;
+}
