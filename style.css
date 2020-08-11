@@ -25,3 +25,12 @@ text-align: center;
 color: #F8F5F5;
 
 }
+#btn{
+    position: absolute;
+    width: 170px;
+    height: 50px;
+    left: 630px;
+    top: 230px; 
+    border-radius: 12px;
+    background-color: brown;
+}
