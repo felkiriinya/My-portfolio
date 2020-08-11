@@ -145,11 +145,11 @@ color: #000000;
 
   width:1370px;
   background-color: black;
-  top: 651px;
+  top: 655px;
   font-family: Roboto;
   font-style: normal;
   font-weight: bold;
-  font-size: 36px;
+  font-size: 30px;
  font-style: italic;
   text-align: center;
   color:white;
@@ -211,7 +211,7 @@ top: 718px;
   font-family: Roboto;
   font-style: normal;
   font-weight: bold;
-  font-size: 36px;
+  font-size: 30px;
  font-style: italic;
   text-align: center;
   color:white;
@@ -292,4 +292,83 @@ box-shadow: crimson;
    
     text-align: center;
     color: #000000;
+}
+.contacts h1{
+  position: absolute;
+
+  width:1370px;
+  background-color: black;
+  top: 1300px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 30px;
+ font-style: italic;
+  text-align: center;
+  color:white;
+}
+#ig{
+  position: absolute;
+ 
+  height: 70px;
+  margin-left: 200px;
+  top: 1400px;
+}
+#twit{
+  position: absolute;
+
+  height: 70px;
+  margin-left: 400px;
+  top: 1400px;
+}
+#gh{
+  position: absolute;
+
+  height: 70px;
+  margin-left: 600px;
+  top: 1400px;
+}
+#eg{
+  position: absolute;
+
+  height: 70px;
+  margin-left: 800px;
+  top: 1400px;
+
+}
+#ld{
+  position: absolute;
+
+  height: 70px;
+  margin-left: 1000px;
+  top: 1400px;
+}
+#ld:hover{
+  height: 80px;
+}
+#eg:hover{
+  height: 80px;
+}
+#gh:hover{
+  height: 80px;
+}
+#ig:hover{
+  height: 80px;
+}
+#twit:hover{
+  height: 80px;
+}
+.contacts p{
+  position: absolute;
+
+  width:1370px;
+  
+  top: 1500px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 30px;
+ font-style: italic;
+  text-align: center;
+  color:black;
 }
