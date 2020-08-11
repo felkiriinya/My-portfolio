@@ -1,0 +1,27 @@
+body{
+   margin: 0px;
+}
+#me1 img{
+    position: absolute;
+    width: 1350px;
+    height: 690px;
+    left: 0px;
+    top: 0px;
+}
+#me1 p{
+    position: absolute;
+width: 909px;
+height: 174px;
+left: 276px;
+top: 9px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 48px;
+line-height: 56px;
+text-align: center;
+
+color: #F8F5F5;
+
+}
