@@ -254,3 +254,42 @@ box-shadow: cadetblue;
   text-align: center;
   color: #000000;
 }
+#teen{
+  position: absolute;
+  margin-left: 900px;
+  top: 1180px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 28px;
+  line-height: px;
+  text-align: center;
+  color: #000000;
+  text-decoration: underline;
+}
+#p1{
+  position: absolute;
+  width: 60px;
+  height: 80px;
+  left: 700px;
+  top: 1220px;
+}
+#p1:hover{
+  width: 70px;
+height: 90px;
+box-shadow: crimson;
+}
+#two{
+  
+    position: absolute;
+    margin-left: 760px;
+    top: 1230px;
+    width:550px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 20px;
+   
+    text-align: center;
+    color: #000000;
+}
