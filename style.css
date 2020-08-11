@@ -7,13 +7,15 @@ body{
     height: 690px;
     left: 0px;
     top: 0px;
+    filter: blur(8px);
+    -webkit-filter: blur(7px);
 }
 #me1 p{
     position: absolute;
 width: 909px;
 height: 174px;
 left: 276px;
-top: 9px;
+top: 170px;
 
 font-family: Roboto;
 font-style: normal;
@@ -30,7 +32,7 @@ color: #F8F5F5;
     width: 170px;
     height: 50px;
     left: 630px;
-    top: 230px; 
+    top: 400px; 
     border-radius: 12px;
     background-color: brown;
 }
