@@ -202,3 +202,17 @@ top: 718px;
   left: 0px;
   top: 718px;
 }
+.projects h1{
+  position: absolute;
+
+  width:1370px;
+  background-color: black;
+  top: 1100px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 36px;
+ font-style: italic;
+  text-align: center;
+  color:white;
+}
