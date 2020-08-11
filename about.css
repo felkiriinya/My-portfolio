@@ -1,0 +1,374 @@
+body{
+    margin: 0;
+    padding: 0;
+    background:rgb(238, 237, 236);
+  }
+  #name h1 {
+  position: absolute;
+  margin-left: 80px;
+  top: 4px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 40px;
+  line-height: px;
+  text-align: center;
+  color: #000000;
+  }
+  #name p{
+    position: absolute;
+    width: 500px;
+    height: 500px;
+   
+    top: 100px;
+    font-family: Roboto;
+    font-style: normal;
+    
+    font-size: 20px;
+    line-height: 40px;
+    text-align: center;
+    color: #000000;
+  }
+  #insta img{
+    position: absolute;
+  
+  height: 50px;
+  margin-left: 30px;
+  top: 290px;
+  }
+  #insta img:hover{
+    width: 90px;
+    height: 90px;
+  }
+  #git img{
+    position: absolute;
+    width: px;
+    height: 50px;
+    margin-left: 140px;
+    top: 290px;
+  }
+  #git img:hover{
+    width: 90px;
+    height: 90px;
+  }
+  #link img{
+    position: absolute;
+    width: px;
+    height: 50px;
+    margin-left: 250px;
+    top: 290px;
+  }
+  #link img:hover{
+    width: 90px;
+    height: 90px;
+  }
+  #twitter img{
+    position: absolute;
+    width: px;
+    height: 50px;
+    margin-left: 370px;
+    top: 290px;
+  }
+  #twitter img:hover{
+  width: 90px;
+  height: 90px;
+  
+  }
+  #personal {
+    position: absolute;
+  width: 320px;
+  height: 420px;
+  margin-left: 520px;
+  top: 0px;
+  
+  }
+  .about h1{
+    position: absolute;
+  margin-left: 990px;
+  top: 4px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 40px;
+  line-height: px;
+  text-align: center;
+  color: #000000;
+  }
+  .about p{
+    position: absolute;
+    width: 390px;
+    height: 500px;
+   margin-left: 900px;
+    top: 60px;
+    font-family: Roboto;
+    font-style: normal;
+    
+    font-size: 20px;
+    line-height: 40px;
+    text-align: center;
+    color: #000000;
+  }
+  .vision h1{
+    position: absolute;
+  
+  width:1370px;
+  background-color: rgba(218, 211, 211, 0.87);
+  top: 400px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: px;
+  text-align: center;
+  color: #000000;
+  font-style: italic;
+  }
+  .vision p{
+    position: absolute;
+  
+  width:1000px;
+  height: 170px;
+  margin-left: 170px;
+  padding-top: 20px;
+  background-color:rgba(218, 211, 211, 0.87);
+  top: 455px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: lighter;
+  font-size: 20px;
+  font-style: italic;
+  text-align: center;
+  color: #000000;
+  }
+  .skill h1{
+    position: absolute;
+  
+    width:1370px;
+    background-color: black;
+    top: 655px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+   font-style: italic;
+    text-align: center;
+    color:white;
+  }
+  .skill h2{
+    position: absolute;
+  margin-left: 230px;
+  top: 730px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 28px;
+  line-height: px;
+  text-align: center;
+  color: #000000;
+  text-decoration: underline;
+  }
+  .skill p{
+    position: absolute;
+    margin-left: 30px;
+    top: 850px;
+    width:635px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: px;
+    text-align: center;
+    color: #000000;
+  }
+  .skill img{
+    position: absolute;
+  width: px;
+  height: 80px;
+  left: 259px;
+  top: 790px;
+  
+  }
+  #girl{
+    position: absolute;
+  width: 680px;
+  height: 400px;
+  left: 670px;
+  top: 715px;
+  }
+  #text{
+    position: absolute;
+    width: 680px;
+    height: 400px;
+    left: 0px;
+    top: 715px;
+  }
+  .projects h1{
+    position: absolute;
+  
+    width:1370px;
+    background-color: black;
+    top: 1100px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+   font-style: italic;
+    text-align: center;
+    color:white;
+  }
+  #kiddy{
+    position: absolute;
+  margin-left: 100px;
+  top: 1180px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 28px;
+  line-height: px;
+  text-align: center;
+  color: #000000;
+  text-decoration: underline;
+  }
+  #p2{
+    position: absolute;
+  width: 60px;
+  height: 80px;
+  left: 20px;
+  top: 1220px;
+  }
+  #p2:hover{
+    width: 70px;
+  height: 90px;
+  box-shadow: cadetblue;
+  }
+  #one{
+    position: absolute;
+    margin-left: 70px;
+    top: 1230px;
+    width:550px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 20px;
+   
+    text-align: center;
+    color: #000000;
+  }
+  #teen{
+    position: absolute;
+    margin-left: 900px;
+    top: 1180px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+    line-height: px;
+    text-align: center;
+    color: #000000;
+    text-decoration: underline;
+  }
+  #p1{
+    position: absolute;
+    width: 60px;
+    height: 80px;
+    left: 700px;
+    top: 1220px;
+  }
+  #p1:hover{
+    width: 70px;
+  height: 90px;
+  box-shadow: crimson;
+  }
+  #two{
+    
+      position: absolute;
+      margin-left: 760px;
+      top: 1230px;
+      width:550px;
+      font-family: Roboto;
+      font-style: normal;
+      font-weight: lighter;
+      font-size: 20px;
+     
+      text-align: center;
+      color: #000000;
+  }
+  .contacts h1{
+    position: absolute;
+  
+    width:1370px;
+    background-color: black;
+    top: 1300px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+   font-style: italic;
+    text-align: center;
+    color:white;
+  }
+  #ig{
+    position: absolute;
+   
+    height: 70px;
+    margin-left: 200px;
+    top: 1400px;
+  }
+  #twit{
+    position: absolute;
+  
+    height: 70px;
+    margin-left: 400px;
+    top: 1400px;
+  }
+  #gh{
+    position: absolute;
+  
+    height: 70px;
+    margin-left: 600px;
+    top: 1400px;
+  }
+  #eg{
+    position: absolute;
+  
+    height: 70px;
+    margin-left: 800px;
+    top: 1400px;
+  
+  }
+  #ld{
+    position: absolute;
+  
+    height: 70px;
+    margin-left: 1000px;
+    top: 1400px;
+  }
+  #ld:hover{
+    height: 80px;
+  }
+  #eg:hover{
+    height: 80px;
+  }
+  #gh:hover{
+    height: 80px;
+  }
+  #ig:hover{
+    height: 80px;
+  }
+  #twit:hover{
+    height: 80px;
+  }
+  .contacts p{
+    position: absolute;
+  
+    width:1370px;
+    
+    top: 1500px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 20px;
+   font-style: italic;
+    text-align: center;
+    color:black;
+  }
