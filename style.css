@@ -1,6 +1,7 @@
 body{
   margin: 0;
   padding: 0;
+  background:rgb(238, 237, 236);
 }
 #name h1 {
 position: absolute;
@@ -106,4 +107,32 @@ color: #000000;
   line-height: 40px;
   text-align: center;
   color: #000000;
+}
+.vision h1{
+  position: absolute;
+
+width:1370px;
+background-color: darkgrey;
+top: 390px;
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 40px;
+line-height: px;
+text-align: center;
+color: #000000;
+}
+.vision p{
+  position: absolute;
+
+width:1370px;
+background-color: darkgrey;
+top: 440px;
+font-family: Roboto;
+font-style: normal;
+font-weight: lighter;
+font-size: 26px;
+
+text-align: center;
+color: #000000;
 }
