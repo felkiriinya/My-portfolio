@@ -20,19 +20,19 @@ color: #000000;
   width: 500px;
   height: 500px;
  
-  top: 66px;
+  top: 100px;
   font-family: Roboto;
   font-style: normal;
   
-  font-size: 30px;
+  font-size: 20px;
   line-height: 40px;
   text-align: center;
   color: #000000;
 }
 #insta img{
   position: absolute;
-width: 60px;
-height: 70px;
+
+height: 50px;
 margin-left: 30px;
 top: 290px;
 }
@@ -42,10 +42,10 @@ top: 290px;
 }
 #git img{
   position: absolute;
-  width: 60px;
-  height: 60px;
+  width: px;
+  height: 50px;
   margin-left: 140px;
-  top: 300px;
+  top: 290px;
 }
 #git img:hover{
   width: 90px;
@@ -53,8 +53,8 @@ top: 290px;
 }
 #link img{
   position: absolute;
-  width: 70px;
-  height: 80px;
+  width: px;
+  height: 50px;
   margin-left: 250px;
   top: 290px;
 }
@@ -64,8 +64,8 @@ top: 290px;
 }
 #twitter img{
   position: absolute;
-  width: 70px;
-  height: 80px;
+  width: px;
+  height: 50px;
   margin-left: 370px;
   top: 290px;
 }
@@ -76,15 +76,15 @@ height: 90px;
 }
 #personal {
   position: absolute;
-width: 450px;
-height: 400px;
-margin-left: 500px;
+width: 320px;
+height: 420px;
+margin-left: 520px;
 top: 0px;
 
 }
 .about h1{
   position: absolute;
-margin-left: 1050px;
+margin-left: 990px;
 top: 4px;
 font-family: Roboto;
 font-style: normal;
@@ -98,12 +98,12 @@ color: #000000;
   position: absolute;
   width: 390px;
   height: 500px;
- margin-left: 960px;
+ margin-left: 900px;
   top: 60px;
   font-family: Roboto;
   font-style: normal;
   
-  font-size: 26px;
+  font-size: 20px;
   line-height: 40px;
   text-align: center;
   color: #000000;
@@ -112,27 +112,93 @@ color: #000000;
   position: absolute;
 
 width:1370px;
-background-color: darkgrey;
-top: 390px;
+background-color: rgba(218, 211, 211, 0.87);
+top: 400px;
 font-family: Roboto;
 font-style: normal;
 font-weight: bold;
-font-size: 40px;
+font-size: 36px;
 line-height: px;
 text-align: center;
 color: #000000;
+font-style: italic;
 }
 .vision p{
   position: absolute;
 
-width:1370px;
-background-color: darkgrey;
-top: 440px;
+width:1000px;
+height: 170px;
+margin-left: 170px;
+padding-top: 20px;
+background-color:rgba(218, 211, 211, 0.87);
+top: 455px;
 font-family: Roboto;
 font-style: normal;
 font-weight: lighter;
-font-size: 26px;
-
+font-size: 20px;
+font-style: italic;
 text-align: center;
 color: #000000;
+}
+.skill h1{
+  position: absolute;
+
+  width:1370px;
+  background-color: black;
+  top: 651px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 36px;
+ font-style: italic;
+  text-align: center;
+  color:white;
+}
+.skill h2{
+  position: absolute;
+margin-left: 230px;
+top: 730px;
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 28px;
+line-height: px;
+text-align: center;
+color: #000000;
+text-decoration: underline;
+}
+.skill p{
+  position: absolute;
+  margin-left: 30px;
+  top: 850px;
+  width:635px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: px;
+  text-align: center;
+  color: #000000;
+}
+.skill img{
+  position: absolute;
+width: px;
+height: 80px;
+left: 259px;
+top: 790px;
+
+}
+#girl{
+  position: absolute;
+width: 680px;
+height: 400px;
+left: 670px;
+top: 718px;
+}
+#text{
+  position: absolute;
+  width: 680px;
+  height: 400px;
+  left: 0px;
+  top: 718px;
 }
