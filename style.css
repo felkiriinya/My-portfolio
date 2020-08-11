@@ -216,3 +216,41 @@ top: 718px;
   text-align: center;
   color:white;
 }
+#kiddy{
+  position: absolute;
+margin-left: 100px;
+top: 1180px;
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 28px;
+line-height: px;
+text-align: center;
+color: #000000;
+text-decoration: underline;
+}
+#p2{
+  position: absolute;
+width: 60px;
+height: 80px;
+left: 20px;
+top: 1220px;
+}
+#p2:hover{
+  width: 70px;
+height: 90px;
+box-shadow: cadetblue;
+}
+#one{
+  position: absolute;
+  margin-left: 70px;
+  top: 1230px;
+  width:550px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: lighter;
+  font-size: 20px;
+ 
+  text-align: center;
+  color: #000000;
+}
