@@ -48,6 +48,12 @@ hr{
     font-size:40px;
     text-transform: uppercase;
 }
+.hero-details h3{
+    font-size: 27px;
+}
+.hero-details p{
+    font-size:20px;
+}
 
 .hero-links{
     width:90%;
